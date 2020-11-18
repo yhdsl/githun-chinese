@@ -12,7 +12,7 @@
       ],
       "key": "!html",
       "selector": "a[aria-label='Pull requests you created']",
-      "replacement": "合并请求"
+      "replacement": "拉取请求"
     }
   ],
 
@@ -110,7 +110,7 @@
     "set status": "状态设置",
     "new repository": "新建仓库",
     "import repository": "导入仓库",
-    "new gist": "新建gist(代码片段)",
+    "new gist": "新建gist",
     "new organization": "新建组织",
     "new project": "新建项目",
     "your profile": "个人资料",
@@ -121,7 +121,7 @@
     "upgrade": "升级",
     "feature preview": "功能预览",
     "sign out": "退出",
-    "pull requests": "合并请求",
+    "pull requests": "拉取请求",
     "marketplace": "应用商城",
     "explore": "探索",
     "issues": "议题",
@@ -240,7 +240,7 @@
     "we couldn’t find anything!": "这里空空如也！",
 
     "__comments-10": "Repository settings",
-    "danger zone": "危险区",
+    "danger zone": "危险操作",
     "change repository visibility": "更改仓库可见性",
     "change visibility": "更改可见性",
     "this repository is currently public.": "该仓库当前是公有的",
