@@ -12,6 +12,7 @@
 // @match               https://github.com/*
 // @grant               GM_xmlhttpRequest
 // @grant               GM_getResourceText
+// @resource            zh-CN_back https://www.githubs.cn/raw-githubusercontent/k1995/github-i18n-plugin/master/locales/zh-CN.json
 // @resource            zh-CN https://raw.githubusercontent.com/yhdsl/github-chinese/main/zh-CN.json
 // @resource            ja https://raw.githubusercontent.com/k1995/github-i18n-plugin/master/locales/ja.json
 // @require             https://cdn.bootcdn.net/ajax/libs/timeago.js/4.0.2/timeago.full.min.js
